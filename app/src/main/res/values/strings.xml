@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">resepku</string>
+    <string name="profile_name">Rangga Arsy Prawira</string>
+    <string name="resep_name">Nama Resep</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string-array name="data_name">
+        <item>Resep Tumis Kangkung</item>
+        <item>Resep Udang Saus Padang</item>
+        <item>Resep Kerang Dara Saus Pedas</item>
+        <item>Resep Asem-Asem Ayam</item>
+        <item>Resep Sambal Cakalang</item>
+        <item>Resep Ice Peach Tea Topping Jelly</item>
+        <item>Resep Bolu Pisang Kukus</item>
+        <item>Resep Ayam Kecap Sederhana</item>
+        <item>Cara Membuat Odeng A la Korea</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Untuk menu sayuran hari ini, coba resep tumis kangkung terasi sederhana ini, yuk! Bahan-bahannya simpel dan ekonomis sehingga kamu bisa bikin kapan saja. \n Sebelum diolah, sebaiknya cuci kangkung di bawah air mengalir. Kemudian tiriskan agar tak mengandung banyak air saat ditumis. Bahan dan bumbu tumis kangkung terasi sederhana ini juga cocok untuk kamu gunakan sebagai bahan sayur tumis lainnya. Misalnya sawi hijau, genjer, taoge, atau kacang panjang. </item>
+        <item>Menjelang weekend, saatnya bikin masakan a la restoran di rumah. Coba resep udang saus padang simple a la restoran seafood ini, yuk! Cocok banget buat kamu yang ingin makan seafood sekeluarga tapi malas ke luar rumah. Dengan bumbu saus padang yang sederhana seperti bawang putih, bawang bombay, cabai, Royco Saus Tiram dan Jawara Saus Sambal, kamu bisa praktikkan cara bikin saus padang sendiri di rumah.</item>
+        <item>Penyuka masakan kerang dara pasti sudah tak asing dengan kerang dara saus padang. Nah, Masak Apa Hari Ini punya resep kerang dara pedas hasil kreasi Lina Tjoandra yang rasa dan prosesnya persis seperti cara memasak kerang dara saus padang. Cocok banget buat kamu coba resepnya. Selain rasa pedas, masakan ini juga diperkaya dengan sentuhan kemangi yang aromatik. Jadi bukan sekadar pedas, tetapi juga kaya rasa.</item>
+        <item>Lagi cari menu lauk bebas minyak? Cobain resep asem-asem ayam yang kuahnya segar ini, deh. Masakan ini merupakan versi berbeda dari asem-asem daging khas Semarang. Dengan bahan utama daging ayam, hidangan asem-asem jadi lebih ekonomis tapi tak kalah sedap. Sejatinya masakan asem-asem diberi rasa kecut segar dengan belimbing wuluh. Namun karena belimbing wuluh tak selalu mudah didapat, Masak Apa Hari Ini menggantinya dengan air asam jawa dan tomat hijau. Jadi tetap mendapat kombinasi rasa asam-gurih-manis.</item>
+        <item>Daerah Sulawesi bagian Utara dikenal dengan hidangan seafood dan masakan serba pedas. Dimulai dari sambal cakalang, sambal roa, ikan bakar sambal dabu-dabu, dan masih banyak lagi. Buat kamu yang suka dengan masakan Manado dan olahan ikan asap, saatnya mencoba resep sambal cakalang yang pedasnya bikin nagih dan bikinnya gampang banget. Untuk ikan asap yang mirip seperti tongkol ini bisa kamu temukan di supermarket besar atau market place.</item>
+        <item>Kamu termasuk penggemar ice peach tea di kafe? Kali ini bikin sendiri di rumah, yuk! Masak Apa Hari Ini ingin mengajak kamu untuk membuat ice peach tea dari Buavita Korean White Peach. Minuman ini dibuat dari buah persik dan di dalamnya mengandung 1000 mg kolagen dan vitamin A untuk membantu mempertahankan kesehatan kulit.</item>
+        <item>Ingin ide manis dan bebas repot untuk menyambut waktunya berbuka puasa? Resep bolu pisang kukus sederhana tanpa mixer anti gagal ini cocok banget buat kamu. Bahan-bahannya sangat sederhana, yaitu pisang, gula palem, telur, dan minyak. Untuk alatnya, cukup siapkan whisk, spatula, dan loyang roti, loyang brownies, atau pinggan tahan panas yang ukurannya tidak lebih besar daripada diameter panci pengukus di dapurmu.</item>
+        <item>Pengen bikin lauk simpel untuk makan nanti? Yuk, cobain resep ayam kecap sederhana yang bumbunya meresap dan bikinnya gampang banget ini! Resep ayam kecap bumbu meresap ini istimewa karena berbalut Bango Kecap Manis yang diracik dari kedelai hitam mallika berkualitas. Bumbu ayam kecap manis yang sederhana ini juga praktis dan nggak perlu bikin bumbu halus.</item>
+        <item>Kalau selama ini kamu suka jajan odeng di restoran atau minimarket dan merasa kurang puas, saatnya mencoba cara membuat odeng a la drakor ini di rumah. Bisa bikin lebih banyak dan tentu saja jadi lebih puas. Supaya gampang bikinnya, beberapa bahan-bahannya sengaja disubstitusi agar lebih mudah didapat.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_1243258564-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2022/04/Udang-Saus-Padang-a-la-Restoran-Seafood-min-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2018/10/kerang-dara-rebus-saus-pedas-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_1945943413-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_2278179115-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_2160516791-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2021/12/resep-bolu-pisang-enjoy-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-ayam-kecap-dinikmati-780x440.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_2273370357-500x300.jpg</item>
+    </string-array>
+</resources>
