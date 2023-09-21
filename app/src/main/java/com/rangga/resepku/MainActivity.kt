@@ -52,9 +52,11 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.getStringArray(R.array.data_photo)
+        val dataMasak = resources.getStringArray(R.array.data_cara_masak)
+        val dataBahan = resources.getStringArray(R.array.data_bahan)
         val listHero = ArrayList<Hero>()
         for (i in dataName.indices) {
-            val hero = Hero(dataName[i], dataDescription[i], dataPhoto[i])
+            val hero = Hero(dataName[i], dataDescription[i], dataPhoto[i], dataBahan[i], dataMasak[i])
             listHero.add(hero)
         }
         return listHero

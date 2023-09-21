@@ -15,6 +15,7 @@
         <item>Resep Bolu Pisang Kukus</item>
         <item>Resep Ayam Kecap Sederhana</item>
         <item>Cara Membuat Odeng A la Korea</item>
+        <item>8 Olahan Kikil Empuk dan Lezat,</item>
     </string-array>
     <string-array name="data_description">
         <item>Untuk menu sayuran hari ini, coba resep tumis kangkung terasi sederhana ini, yuk! Bahan-bahannya simpel dan ekonomis sehingga kamu bisa bikin kapan saja. \n Sebelum diolah, sebaiknya cuci kangkung di bawah air mengalir. Kemudian tiriskan agar tak mengandung banyak air saat ditumis. Bahan dan bumbu tumis kangkung terasi sederhana ini juga cocok untuk kamu gunakan sebagai bahan sayur tumis lainnya. Misalnya sawi hijau, genjer, taoge, atau kacang panjang. </item>
@@ -26,7 +27,36 @@
         <item>Ingin ide manis dan bebas repot untuk menyambut waktunya berbuka puasa? Resep bolu pisang kukus sederhana tanpa mixer anti gagal ini cocok banget buat kamu. Bahan-bahannya sangat sederhana, yaitu pisang, gula palem, telur, dan minyak. Untuk alatnya, cukup siapkan whisk, spatula, dan loyang roti, loyang brownies, atau pinggan tahan panas yang ukurannya tidak lebih besar daripada diameter panci pengukus di dapurmu.</item>
         <item>Pengen bikin lauk simpel untuk makan nanti? Yuk, cobain resep ayam kecap sederhana yang bumbunya meresap dan bikinnya gampang banget ini! Resep ayam kecap bumbu meresap ini istimewa karena berbalut Bango Kecap Manis yang diracik dari kedelai hitam mallika berkualitas. Bumbu ayam kecap manis yang sederhana ini juga praktis dan nggak perlu bikin bumbu halus.</item>
         <item>Kalau selama ini kamu suka jajan odeng di restoran atau minimarket dan merasa kurang puas, saatnya mencoba cara membuat odeng a la drakor ini di rumah. Bisa bikin lebih banyak dan tentu saja jadi lebih puas. Supaya gampang bikinnya, beberapa bahan-bahannya sengaja disubstitusi agar lebih mudah didapat.</item>
+        <item>Kalau keluargamu termasuk penggemar kikil sapi, artikel ini pas banget buat kamu. Di sini, ada 8 olahan kikil sapi yang empuk, kenyal, dan sedap. Bagian sapi yang teksturnya kenyal ini memang punya banyak penggemar dan banyak sekali variasi olahan kikil yang bisa kamu coba supaya makin ahli di dapur. Kamu bisa mengolah kikil sapi menjadi berbagai hidangan, mulai dari tumis, sup, sate, hingga lontong kikil.</item>
     </string-array>
+
+    <string-array name="data_cara_masak">
+        <item>Masukkan mangga ke dalam blender. Proses hingga halus. Saring. Sisihkan. \n Panaskan susu, gelatin bubuk, Buavita Mango, mangga halus, dan tepung maizena di atas api kecil sambil diaduk hingga mendidih. Angkat.\nTuang ke dalam gelas saji atau cetakan puding. Diamkan hingga tidak panas. Masukkan ke dalam kulkas. Biarkan hingga mengeras. Sisihkan.</item>
+        <item>Panaskan minyak, tumis bumbu halus dan serai hingga harum dan tidak langu. \nMasukkan air asam jawa, aduk rata.\nMasukkan cumi dan bawang bombay, aduk. Masak hingga setengah matang.</item>
+        <item>Rebus kerang dengan garam sampai matang. Kupas sebelah kulit kerang. Sisihkan. \n Masukkan kerang rebus, aduk, lalu tutup wajan. Aduk sesekali saja, masak sampai air menyusut. Angkat. Sajikan.</item>
+        <item>Panaskan margarin di atas wajan. Tumis bawang bombay, bawang putih, dan cabai hingga harum. \n Masukkan tomat, Bango Kecap Manis, garam, Royco Kaldu Ayam, dan merica. Aduk rata.</item>
+        <item>Masukkan mangga ke dalam blender. Proses hingga halus. Saring. Sisihkan. \n Panaskan susu, gelatin bubuk, Buavita Mango, mangga halus, dan tepung maizena di atas api kecil sambil diaduk hingga mendidih. Angkat.\nTuang ke dalam gelas saji atau cetakan puding. Diamkan hingga tidak panas. Masukkan ke dalam kulkas. Biarkan hingga mengeras. Sisihkan.</item>
+        <item>Panaskan minyak, tumis bumbu halus dan serai hingga harum dan tidak langu. \nMasukkan air asam jawa, aduk rata.\nMasukkan cumi dan bawang bombay, aduk. Masak hingga setengah matang.</item>
+        <item>Rebus kerang dengan garam sampai matang. Kupas sebelah kulit kerang. Sisihkan. \n Masukkan kerang rebus, aduk, lalu tutup wajan. Aduk sesekali saja, masak sampai air menyusut. Angkat. Sajikan.</item>
+        <item>Panaskan margarin di atas wajan. Tumis bawang bombay, bawang putih, dan cabai hingga harum. \n Masukkan tomat, Bango Kecap Manis, garam, Royco Kaldu Ayam, dan merica. Aduk rata.</item>
+        <item>Masukkan mangga ke dalam blender. Proses hingga halus. Saring. Sisihkan. \n Panaskan susu, gelatin bubuk, Buavita Mango, mangga halus, dan tepung maizena di atas api kecil sambil diaduk hingga mendidih. Angkat.\nTuang ke dalam gelas saji atau cetakan puding. Diamkan hingga tidak panas. Masukkan ke dalam kulkas. Biarkan hingga mengeras. Sisihkan.</item>
+        <item>Panaskan minyak, tumis bumbu halus dan serai hingga harum dan tidak langu. \nMasukkan air asam jawa, aduk rata.\nMasukkan cumi dan bawang bombay, aduk. Masak hingga setengah matang.</item>
+
+    </string-array>
+
+    <string-array name="data_bahan">
+        <item>350g daging buah mangga \n 250ml susu evaporasi \n 550ml Buavita Mango\n 1sdm gelatin bubuk</item>
+        <item>cumi segar, buang tintanya, iris melintang\n buah bawang bombay, iris\nbatang serai, memarkan</item>
+        <item>dada ayam, potong 6 bagian \n siung bawang putih \n buah jeruk nipis \n 1sdt garam</item>
+        <item>800g ayam, potong 8 bagian, lumuri dengan air jeruk nipis, goreng setengah matang</item>
+        <item>350g daging buah mangga \n 250ml susu evaporasi \n 550ml Buavita Mango\n 1sdm gelatin bubuk</item>
+        <item>cumi segar, buang tintanya, iris melintang\n buah bawang bombay, iris\nbatang serai, memarkan</item>
+        <item>dada ayam, potong 6 bagian \n siung bawang putih \n buah jeruk nipis \n 1sdt garam</item>
+        <item>800g ayam, potong 8 bagian, lumuri dengan air jeruk nipis, goreng setengah matang</item>
+        <item>350g daging buah mangga \n 250ml susu evaporasi \n 550ml Buavita Mango\n 1sdm gelatin bubuk</item>
+        <item>cumi segar, buang tintanya, iris melintang\n buah bawang bombay, iris\nbatang serai, memarkan</item>
+    </string-array>
+
     <string-array name="data_photo">
         <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_1243258564-500x300.jpg</item>
         <item>https://www.masakapahariini.com/wp-content/uploads/2022/04/Udang-Saus-Padang-a-la-Restoran-Seafood-min-500x300.jpg</item>
@@ -37,5 +67,6 @@
         <item>https://www.masakapahariini.com/wp-content/uploads/2021/12/resep-bolu-pisang-enjoy-500x300.jpg</item>
         <item>https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-ayam-kecap-dinikmati-780x440.jpg</item>
         <item>https://www.masakapahariini.com/wp-content/uploads/2023/08/shutterstock_2273370357-500x300.jpg</item>
+        <item>https://www.masakapahariini.com/wp-content/uploads/2021/03/lontong-kikil-produk-780x440.jpg</item>
     </string-array>
 </resources>
